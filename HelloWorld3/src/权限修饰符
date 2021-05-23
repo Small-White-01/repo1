@@ -1,5 +1,0 @@
-                            public>protected>成员方法>private
-1.同一个类（自己）               yes     yes       yes    yes
-2.同一个包（引用类创建对象）       yes     yes       yes    no
-3.子类                         yes     yes       no     no
-4.非子类                       yes      no       no     no
